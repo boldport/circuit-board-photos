@@ -1,3 +1,5 @@
+![Montage of images](montage.jpg)
+
 # Photos of Boldport's circuit boards
 
 A collection of photographs of [Boldport](https://boldport.com) PCBs.
