@@ -2,16 +2,20 @@
 
 # Photos of Boldport's circuit boards
 
-A collection of photographs of [Boldport](https://boldport.com) PCBs.
+A collection of photographs of [Boldport](https://boldport.com) PCBs by Saar Drimer.
 
-Some pictured PCBs are available on our [shop](https://boldport.com/shop) as part of projects or as [individual PCBs](https://boldport.com/shop/only-the-circuitboard).
+## Support this work
 
-The images contained in this repository are licensed under
+To support this work please [sponsor Saar Drimer](https://github.com/sponsors/saardrimer) through GitHub Sponsors or buy Boldport's products [here](https://shop.pimoroni.com/collections/boldport).
 
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+## License
 
-Full license text:
+The images contained in this repository are available under the conditions of the 
 
-https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+`Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`
 
-Contact saar@boldport.com for commercial license of the images.
+license. See `LICENSE`.
+
+## Commercial use
+
+Contact saar@boldport.com for commercial license of images.
